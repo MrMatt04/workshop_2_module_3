@@ -1,0 +1,27 @@
+#behuizing {
+    background-color: black;
+    width: 750px;
+    height: 550px;
+    border-radius: 5%;
+    margin: auto;
+    padding: 20px 0;
+    
+}
+#scherm video {
+    width: 720px;
+    height: 480px;
+    margin: 0 0 0 15px;
+}
+#knop {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+#flex {
+    display: flex;
+}
+#filler {
+    width: 680px;
+}
